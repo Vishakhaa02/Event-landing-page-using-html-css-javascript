@@ -2,8 +2,6 @@
 
 VIBEFEST 2026 is a responsive concert and event website created using HTML, CSS, and JavaScript.
 
-The project was originally based on a restaurant website template, which I redesigned and converted into a concert event website.
-
 ## Features
 
 - Event landing page
